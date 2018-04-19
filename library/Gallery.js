@@ -4,7 +4,7 @@ import {
   View, ViewPropTypes
 } from 'react-native';
 
-import Image from 'react-native-transformable-image';
+import Image from 'react-native-transformable-image-next';
 import ViewPager from '@ldn0x7dc/react-native-view-pager';
 import {createResponder} from 'react-native-gesture-responder';
 
